@@ -24,4 +24,5 @@ Code and datafiles used in the AM10 course
 | 11          | Eloise Donck, Cheng-Tai Hsieh, Poorvi Jain, Sumeng Li, Yaokang Ren, Milos Terzic| WilliamRyk              | <https://github.com/WilliamRyk/AM10_Final-Porject_Group-11> | <N/A>                         | 2024-11-04 |
 | 01         | Sacha Khiroun, Alexandra Monina, Ameesha Dixit, Yevelin Chen, Vidhi Singhal, Jialiang Sun| saxhaxxlbs              | <https://github.com/saxhaxxlbs/impact-of-remote-work-mental-health> | <N/A>       | 2024-11-04 |
 | 10 | Khushi Jaiswal, Winston Logist, Uzair Zaidi, Martim Carvalhosa, Linyi Kang, Yuanling Xu, | KhushiJaiswal123 | <https://github.com/KhushiJaiswal123/Data_Visualisation_GrpPrj.git> | <N/A> | 2024-11-04 |
+| 5 | Sofia Chen, Prayaag Desai, Riccardo Grossi, Arshiya Mahajan, Mariia Zaridze, Zijun Zhou| zzj-mam | <https://github.com/zzj-mam/AM10-Group-5> | <N/A> | 2024-11-18 |
 
