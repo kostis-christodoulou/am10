@@ -26,3 +26,5 @@ Code and datafiles used in the AM10 course
 | 10 | Khushi Jaiswal, Winston Logist, Uzair Zaidi, Martim Carvalhosa, Linyi Kang, Yuanling Xu, | KhushiJaiswal123 | <https://github.com/KhushiJaiswal123/Data_Visualisation_GrpPrj.git> | <N/A> | 2024-11-04 |
 | 5 | Sofia Chen, Prayaag Desai, Riccardo Grossi, Arshiya Mahajan, Mariia Zaridze, Zijun Zhou| zzj-mam | <https://github.com/zzj-mam/AM10-Group-5> | <N/A> | 2024-11-18 |
 
+| 12 | Noussaiba Krichene, Laiba Sajud, Mohan Fan, Rostane Meghar, Hrush Ambekar , Jiajun Wang | NoussaibaMAM25  | <https://github.com/NoussaibaMAM25/Project-Data-Viz-Group12> | <N/A> | 2024-11-19 |
+
